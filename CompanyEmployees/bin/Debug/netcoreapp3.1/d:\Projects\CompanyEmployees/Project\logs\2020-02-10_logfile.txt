@@ -1,0 +1,2 @@
+2020-02-10 16:35:51.0204 INFO Company with id: 3d490a70-94ce-4d15-9494-5248280c2ce2 doesn't exist in the database.
+2020-02-10 18:58:27.0305 INFO Company with id: c9d4c053-49b6-410c-bc78-2d54a9991873 doesn't exist in the database.

@@ -1,0 +1,16 @@
+/home/gl0b/Desktop/CompanyEmployees/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
+/home/gl0b/Desktop/CompanyEmployees/Entities/bin/Debug/netcoreapp3.1/Entities.dll
+/home/gl0b/Desktop/CompanyEmployees/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/gl0b/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.csprojAssemblyReference.cache
+/home/gl0b/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/home/gl0b/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/home/gl0b/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.dll
+/home/gl0b/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.pdb
+/home/glock/Desktop/CompanyEmployees/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
+/home/glock/Desktop/CompanyEmployees/Entities/bin/Debug/netcoreapp3.1/Entities.dll
+/home/glock/Desktop/CompanyEmployees/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/glock/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.csprojAssemblyReference.cache
+/home/glock/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/home/glock/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/home/glock/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.dll
+/home/glock/Desktop/CompanyEmployees/Entities/obj/Debug/netcoreapp3.1/Entities.pdb

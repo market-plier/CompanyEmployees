@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/glock/.dotnet/store/|arch|/|tfm|",
+      "/home/glock/.nuget/packages"
+    ]
+  }
+}
